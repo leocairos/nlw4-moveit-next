@@ -20,4 +20,5 @@ $ yarn dev
 
 * #rumoaoproximonivel
 * #jornadainfinita
+* #focopraticagrupo
 
