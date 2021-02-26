@@ -57,10 +57,13 @@ $ yarn dev
 
 Demo disponivel em https://moveit-next-silk.vercel.app/
 
+
+
 ### Códigos para o desafio
 
 * #rumoaoproximonivel
 * #jornadainfinita
 * #focopraticagrupo
 * #neverstoplearning
+* #missioncomplete
 
